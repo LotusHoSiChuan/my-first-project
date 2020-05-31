@@ -91,9 +91,7 @@ header{
     background-color: #f0f;
 }
 
-body{
-    position: relative;
-}
+
 .banner-share-wrapper{
     position: fixed;
     top: 8rem;
